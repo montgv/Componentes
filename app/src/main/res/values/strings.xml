@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="texto_rB1">Opción 1</string>
+    <string name="texto_rB2">Opción 2</string>
+    <string name="texto_check1">Check 1</string>
+    <string name="texto_cB2">Check 2</string>
+    <string-array name="opciones_spinner">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+    </string-array>
+</resources>
